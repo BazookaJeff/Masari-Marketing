@@ -50,7 +50,7 @@ In total, Masari aims to be one of the top privacy coins in the cryptosphere.
 
 #### HOW DO I GET MASARI?
 
-Join our communities on Reddit or Twitter!There is daily discussion on our Discord chat as well as our Telegram channel. You can also get started mining Masari using your own computer at home.!
+Join our communities on Reddit or Twitter! There is daily discussion on our Discord chat as well as our Telegram channel. You can also get started mining Masari using your own computer at home!
 
 Purchase Masari at SouthXChange.com, TradeOgre.com, Stocks.Exchange, and Crex24.com.
 
