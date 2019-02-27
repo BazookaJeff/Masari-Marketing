@@ -27,9 +27,9 @@ github.com/masari-project/masari
 twitter.com/masaricurrency
 medium.com/@officialmasari
 
-####General Information
+#### General Information
 
-####Getmasari.org
+#### Getmasari.org
 
 # Back
 
