@@ -9,3 +9,7 @@ rather than an avid crypto user. Consider sending these tutorials to interested 
 
 If you would like to contribute to these tutorials, simply start a pull request on the text version of the document. 
 
+## Pointers for a Masari Meetup
+
+Reach out to other members through one of our social media channels ([Discord](https://discord.gg/sMCwMqs), [Telegram](https://t.me/masaricurrency),[Forum](https://forum.getmasari.org/)). 
+
