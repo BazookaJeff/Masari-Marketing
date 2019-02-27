@@ -27,6 +27,10 @@ github.com/masari-project/masari
 twitter.com/masaricurrency
 medium.com/@officialmasari
 
+####General Information
+
+####Getmasari.org
+
 # Back
 
 Masari is a special type of digital money that you can use on the internet. Unlike Bitcoin, Masari is private. This means that you can purchase things on the internet without being discriminated on for what your buy and or how rich you are. Masari has no central authority. This means that it is decentralized and immune to censorship or simply put that it can’t be shut down. Masari aims to be simple, scalable, and secure.
